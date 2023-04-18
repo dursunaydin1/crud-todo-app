@@ -16,4 +16,4 @@
 </p>
 <a href="https://crud-react-todo.netlify.app/">Canlı Önizleme</a>
 
-<img src="./src/screnn.gif" alt="">
+<img src="./src/screen.gif" alt="">

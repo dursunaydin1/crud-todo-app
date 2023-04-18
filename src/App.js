@@ -101,7 +101,9 @@ function App() {
   return (
     <div>
       <ToastContainer />
-      <h1 className="bg-dark">CRUD</h1>
+      <h1 className="bg-dark text-warning text-center p-3">
+        # CRUD Todo App #
+      </h1>
       <div className="container border p-4 mt-4">
         {/* form submit olayı ile form içindeki ekle butonu aynı işlemi gerçekleştiriyor  */}
         <form onSubmit={handleSubmit} className="d-flex gap-3">
