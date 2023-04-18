@@ -14,6 +14,6 @@
     *<b>Yapıldı</b> seçeneğine tıklandığında seçili görev üzerinde stil değiştirilerek başlık üzeri çizgi ekleniyor ve buton içeriği <b>Yapılacak</b> olarak güncelleniyor </br>
     *
 </p>
-<a href="">Canlı Önizleme</a>
+<a href="https://crud-react-todo.netlify.app/">Canlı Önizleme</a>
 
 <img src="./src/screnn.gif" alt="">
